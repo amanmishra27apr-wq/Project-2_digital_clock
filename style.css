@@ -1,0 +1,25 @@
+body{
+    background: url(bgforclock.png) center/cover no-repeat fixed;
+    }
+        .jumbotron{
+            background-color: rgba(0, 0, 0, 0.605);
+            color: bisque;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            border: rgb(62, 62, 255) double 4px;
+            padding: 50px;
+            margin-top: 140px ;
+        }
+        #Time{
+            color: red;
+        }
+        .navbar{
+         background: transparent !important;
+        }
+
+        .navbar-brand,
+        .nav-link{
+         color: white !important;
+        }
